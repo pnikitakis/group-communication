@@ -1,5 +1,5 @@
 # group-communication
-Distributed group messaging library that supports reliable total group multicast. University project for Distributed Systems (Spring 2018).
+Distributed group messaging library that supports reliable total group multicast. University project [no.2]  for Distributed Systems (Spring 2018).
 
 ## Description
 The library supports group management, total multicast and view synchronous message delivery. We also include a directory to identify existing and new users/apps.
